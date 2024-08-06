@@ -73,7 +73,7 @@ const DashboardPage=()=> {
                   {tool.label}
                 </div>
               </div>
-              <ArrowRight cla/>
+              <ArrowRight/>
             </Card>
         ))}
       </div>
